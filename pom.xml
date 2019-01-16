@@ -49,7 +49,7 @@
 					<mainClass>com.mycompany.webappprova.GenericResource</mainClass>
 				</manifest>
 			</archive>
-			<!--fine-->
+			<!fine-->
                 </configuration>
             </plugin>
             <plugin>
